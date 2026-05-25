@@ -26,7 +26,7 @@
 *   **ฟังก์ชันตรรกะ *Introverted Thinking (Ti)*:** ช่วยในการประมวลผลข้อมูลอย่างเป็นเหตุเป็นผล ทำให้คำพูดหรือการแสดงออกของคุณมีความฉลาดและเฉียบคมเมื่อถึงเวลาที่ต้องวิเคราะห์สิ่งต่างๆ
 *   **ฟังก์ชันส่วนด้อย *Extraverted Sensing (Se)*:** แม้จะเป็นฟังก์ชันที่ถนัดน้อยที่สุด แต่หากนำมาใช้อย่างถูกจังหวะ จะช่วยสร้างความสนใจผ่านประสาทสัมผัสและรายละเอียดทางกายภาพ 
 
-[PROMPT:A minimal 16:8 Educational Infographic (Hierarchy Infographic) showing the 4 cognitive functions of an INFJ (Ni, Fe, Ti, Se) functioning as layers of a passive attraction strategy. Emphasize Ni at the core and Fe as the outer interaction layer. Use elegant, soft pastel tones on a clean white background. All text in the image MUST be completely in Thai language.]
+![PROMPT: A minimal 16:8 Educational Infographic (Hierarchy Infographic) showing the 4 cognitive functions of an INFJ (Ni, Fe, Ti, Se) functioning as layers of a passive attraction strategy. Emphasize Ni at the core and Fe as the outer interaction layer. Use elegant, soft pastel tones on a clean white background. All text in the image MUST be completely in Thai language.](https://raw.githubusercontent.com/boyn149/project_20260525_1505/main/book/book_book1/pic_book1/infographic_book1_1.png)
 
 ### *Introverted Intuition (Ni)* กับการสร้างออร่าความลึกลับน่าค้นหา
 
@@ -64,7 +64,7 @@
 *   **The Siren (เสน่ห์เย้ายวนที่ยากจะต้านทาน):** แม้ *The Siren* มักจะเชื่อมโยงกับเสน่ห์ทางกายภาพ แต่ INFJ สามารถสร้างออร่านี้ผ่านความลึกลับของ *Introverted Intuition (Ni)* ร่วมกับการใช้ *Extraverted Sensing (Se)* อย่างแยบคาย เช่น การแต่งกายที่มีเทสต์ การจัดวางท่าทางที่สง่างามแต่นิ่งเฉย สร้างความรู้สึกเหมือนอยู่ในโลกอีกใบที่ทำให้เป้าหมายอยากก้าวเข้ามา
 *   **The Natural (เสน่ห์แห่งความเป็นธรรมชาติ):** ความจริงใจและการเห็นอกเห็นใจผู้อื่นอย่างลึกซึ้ง ทำให้ INFJ ดูบริสุทธิ์และไร้เดียงสาในสายตาผู้อื่น ซึ่งเป็นเกราะป้องกันความระแวดระวังของเป้าหมาย ทำให้เป้าหมายยอมเปิดใจโดยไม่รู้ตัว
 
-[PROMPT: A minimal 16:8 Educational Infographic (Process Infographic) showing a 3-step passive attraction strategy for INFJ. Step 1: 'ดึงดูดด้วยความอบอุ่น (Fe)'. Step 2: 'ถอยห่างอย่างมีศิลปะ (Introversion)'. Step 3: 'สร้างความลึกลับน่าค้นหา (Ni)'. Use soft pastel arrows and icons on a clean white background. All text in the image MUST be completely in Thai language.]
+![PROMPT: A minimal 16:8 Educational Infographic (Process Infographic) showing a 3-step passive attraction strategy for INFJ. Step 1: 'ดึงดูดด้วยความอบอุ่น (Fe)'. Step 2: 'ถอยห่างอย่างมีศิลปะ (Introversion)'. Step 3: 'สร้างความลึกลับน่าค้นหา (Ni)'. Use soft pastel arrows and icons on a clean white background. All text in the image MUST be completely in Thai language.](https://raw.githubusercontent.com/boyn149/project_20260525_1505/main/book/book_book1/pic_book1/infographic_book1_2.png)
 
 ### ศิลปะการสร้างสมดุล: การเปิดรับและการเว้นระยะห่าง
 กลยุทธ์สำคัญของ Passive Attractive คือการส่งสัญญาณที่ขัดแย้ง (Send Mixed Signals) เพื่อให้เป้าหมายเกิดความสับสนและทุ่มเทความสนใจมาที่คุณ INFJ สามารถสร้างสมดุลนี้ได้ด้วยกลไกต่อไปนี้:
