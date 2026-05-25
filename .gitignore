@@ -1,0 +1,4 @@
+src/
+*.pyc
+__pycache__/
+current_notebook_id.txt
